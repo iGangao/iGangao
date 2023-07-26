@@ -1,6 +1,8 @@
-### Hi there I'm Gangao 👋
-🔭 I’m currently working on [retrival qa](https://github.com/iGangao/es_text2vec_chatglm_qa)
-🌱 I’m currently learning Deep Learning and NLP
+### Hi there 👋, I'm gangao
+
+  🔭 I’m currently working on [retrival qa](https://github.com/iGangao/es_text2vec_chatglm_qa)
+  
+  🌱 I’m currently learning Deep Learning and NLP
 <!--
 **iGangao/iGangao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
