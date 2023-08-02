@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm gangao
 
-  🔭 I’m currently working on [retrival qa](https://github.com/iGangao/es_text2vec_chatglm_qa)
+  🔭 I’m currently working on [Retrival qa](https://github.com/iGangao/es_text2vec_chatglm_qa) 、 [BERT Training](https://github.com/iGangao/ContinueTrainingBERT)
   
   🌱 I’m currently learning Deep Learning and NLP
 <!--
