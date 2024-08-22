@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm gangao
 
-  🔭 I’m currently working on [Textgen Training](https://github.com/iGangao/ContinueTrainingGPT2)、[Retrival LLMs](https:github.com/iGangao/QAsystem)
+  🔭 I’m currently working on [post-training]、[Retrival LLMs](https:github.com/iGangao/QAsystem)
   
   🌱 I’m currently learning Multimodal Representation Model
 <!--
