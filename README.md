@@ -1,8 +1,11 @@
 ### Hi there 👋, I'm gangao
 
   🔭 I’m currently working on llm general post-training and vlm embodied reasoning
+  
   🌱 I’m currently learning Multimodal Model for security detection
+  
   🧠 My research interests are LLM Alignment and VLM Reasoning
+
 <!--
 [Retrival LLMs](https:github.com/iGangao/QAsystem)
 **iGangao/iGangao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
