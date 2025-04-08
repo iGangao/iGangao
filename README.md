@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm gangao
 
-  🔭 I’m currently working on llm general post-training and vlm embodied reasoning
-  
-  🌱 I’m currently learning Multimodal Model for security detection
+  🔭 I’m currently working on llm general post-training and vlm reasoning in embodied
   
   🧠 My research interests are LLM Alignment and VLM Reasoning
 
